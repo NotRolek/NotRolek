@@ -5,9 +5,12 @@
 
 
 
-### My GitHub Stats
-![Rolek7's Stats](https://github-readme-stats.vercel.app/api?username=Rolek7&theme=radical&show_icons=true&hide_border=true&count_private=true)
-![Rolek7's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Rolek7&theme=radical&hide_border=true)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=OgRolek&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&order=1"          height="150" alt="stats graph" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=OgRolek&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&order=2" height="150" alt="languages graph" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=OgRolek&radius=16&area=true&order=5&hide_border=true&bg_color=151515&color=e5e5e5" height="247" alt="activity-graph graph" />
+</div>
   
   </td>
 </tr>
