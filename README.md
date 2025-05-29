@@ -1,5 +1,5 @@
 <h2 align="center"><samp>Hi 👋 I'm Karol</samp></h2>
-<h3 align="center"><samp>A Developer from Poland</samp> </h3>
+<h3 align="center"><samp>A Web Developer from Poland</samp> </h3>
 
 
 
