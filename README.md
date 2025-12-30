@@ -5,7 +5,7 @@
 
 <div align="center">
   <a href="https://margin-notes.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/NotRolek/NotRolek/main/nmr.svg" alt="Interactive Fan" width="600" />
+    <img src="https://raw.githubusercontent.com/NotRolek/NotRolek/refs/heads/Main/nmr.svg" alt="Interactive Fan" width="600" />
   </a>
   
   <br />
