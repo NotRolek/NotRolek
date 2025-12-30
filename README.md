@@ -5,13 +5,13 @@
 
 <div align="center">
   <a href="https://margin-notes.vercel.app" target="_blank">
-    <img src="https://raw.githubusercontent.com/NotRolek/NotRolek/main/fan-demo.svg" alt="Interactive Fan" width="600" />
+    <img src="https://raw.githubusercontent.com/NotRolek/NotRolek/main/nmr.svg" alt="Interactive Fan" width="600" />
   </a>
   
   <br />
   <br />
 
-  <a href="https://margin-notes.vercel.app" target="_blank">
+  <a href="https://margin-notes.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/ACCESS%20CONFIDENTIAL%20FILES-ENTER%20HERE-red?style=for-the-badge&logo=vercel" alt="Visit Case Files" />
   </a>
 </div>
