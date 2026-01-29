@@ -23,8 +23,8 @@
 
 ### 📈 Activity
 <p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=TWÓJ_USERNAME&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TWÓJ_USERNAME&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotRolek&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" />
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotRolek&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&hide_border=true" />
 </p>
 
 ---
