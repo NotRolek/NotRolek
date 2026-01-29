@@ -1,41 +1,35 @@
 <div align="center">
 
-# ⚡ SYSTEM_ROOT: rolek.me
-
-[![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square&labelColor=24292e)](https://rolek.me)
-[![Stack](https://img.shields.io/badge/STACK-NODE.JS-yellow?style=flat-square&labelColor=24292e)](https://rolek.me)
-[![Security](https://img.shields.io/badge/SECURITY-ENV_SAFE-blue?style=flat-square&labelColor=24292e)](https://rolek.me)
+# ⚡ [ ROLEK.ME ] ⚡
+` ARCHITECTING SCALABLE BACKENDS // NODE.JS SPECIALIST `
 
 ---
 
-<table align="center">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>🛠️ Core Services</h3>
-      <ul>
-        <li><b>Runtime:</b> Node.js (V8)</li>
-        <li><b>Language:</b> JavaScript / TypeScript</li>
-        <li><b>Frameworks:</b> Express, Fastify</li>
-        <li><b>Databases:</b> PostgreSQL, MongoDB</li>
-      </ul>
-    </td>
-    <td width="50%" valign="top">
-      <h3>🛰️ Network & Social</h3>
-      <ul>
-        <li><b>Domain:</b> <a href="https://rolek.me">rolek.me</a></li>
-        <li><b>Discord:</b> <code>rolek#0000</code></li>
-        <li><b>Work:</b> Open for projects</li>
-      </ul>
-    </td>
-  </tr>
-</table>
+![Progress](https://geocities.rest/p/02.gif)
 
 ---
 
-### 💻 Infrastructure Snapshot
-```javascript
-{
-  "user": "rolek",
-  "capabilities": ["API_Design", "Backend_Arch", "DB_Optimization"],
-  "philosophy": "Don't leak the .env, or the .env will leak you."
-}
+### 🟢 CORE_SYSTEM_RESOURCES
+| RESOURCE | ALLOCATION | STATUS |
+| :--- | :--- | :--- |
+| **Node.js Runtime** | `██████████████████` 100% | `STABLE` |
+| **JavaScript / TS** | `████████████████░░` 92% | `READY` |
+| **Data Integrity** | `██████████████░░░░` 85% | `ACTIVE` |
+| **System Security** | `██████████████████` 100% | `LOCKED` |
+
+---
+
+### 📁 ENCRYPTED_DATA_STREAM
+> `[ 01 ]` **WEB:** [rolek.me](https://rolek.me)  
+> `[ 02 ]` **STACK:** Express / Fastify / PostgreSQL / Redis  
+> `[ 03 ]` **PHILOSOPHY:** Code is law. Security is non-negotiable.
+
+---
+
+### 📟 LIVE_SYSTEM_LOGS
+```diff
+! SYSTEM_BOOT: SUCCESS
++ CONNECTION: SECURE [rolek.me]
++ MEMORY: OPTIMIZED
+- THREAT_LEVEL: ZERO (.env isolated)
+! MISSION: BUILDING THE NEXT GENERATION OF BACKEND SOLUTIONS
