@@ -1,35 +1,31 @@
-<div align="center">
+# 📂 rolek.me
 
-# ⚡ [ ROLEK.ME ] ⚡
-` ARCHITECTING SCALABLE BACKENDS // NODE.JS SPECIALIST `
+```javascript
+/**
+ * @class Developer
+ * @description Core profile information for rolek.me
+ */
+class Developer {
+  constructor() {
+    this.name = "rolek";
+    this.role = "Full-stack Developer";
+    this.focus = ["Node.js", "Backend Architecture", "API Security"];
+    this.location = "Poland";
+    this.website = "[https://rolek.me](https://rolek.me)";
+  }
 
----
+  status() {
+    return {
+      coding: true,
+      openForCollab: true,
+      env_secure: true
+    };
+  }
 
-![Progress](https://geocities.rest/p/02.gif)
+  sayHi() {
+    console.log("Welcome to my digital space. Check my work at rolek.me.");
+  }
+}
 
----
-
-### 🟢 CORE_SYSTEM_RESOURCES
-| RESOURCE | ALLOCATION | STATUS |
-| :--- | :--- | :--- |
-| **Node.js Runtime** | `██████████████████` 100% | `STABLE` |
-| **JavaScript / TS** | `████████████████░░` 92% | `READY` |
-| **Data Integrity** | `██████████████░░░░` 85% | `ACTIVE` |
-| **System Security** | `██████████████████` 100% | `LOCKED` |
-
----
-
-### 📁 ENCRYPTED_DATA_STREAM
-> `[ 01 ]` **WEB:** [rolek.me](https://rolek.me)  
-> `[ 02 ]` **STACK:** Express / Fastify / PostgreSQL / Redis  
-> `[ 03 ]` **PHILOSOPHY:** Code is law. Security is non-negotiable.
-
----
-
-### 📟 LIVE_SYSTEM_LOGS
-```diff
-! SYSTEM_BOOT: SUCCESS
-+ CONNECTION: SECURE [rolek.me]
-+ MEMORY: OPTIMIZED
-- THREAT_LEVEL: ZERO (.env isolated)
-! MISSION: BUILDING THE NEXT GENERATION OF BACKEND SOLUTIONS
+const me = new Developer();
+me.sayHi();
