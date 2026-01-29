@@ -7,11 +7,11 @@
  */
 class Developer {
   constructor() {
-    this.name = "rolek";
+    this.name = "Karol";
     this.role = "Full-stack Developer";
     this.focus = ["Node.js", "Backend Architecture", "API Security"];
     this.location = "Poland";
-    this.website = "[https://rolek.me](https://rolek.me)";
+    this.website = "https://rolek.me";
   }
 
   status() {
