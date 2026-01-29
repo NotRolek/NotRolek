@@ -1,34 +1,41 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/render?type=soft&color=auto&height=200&section=header&text=rolek.me&fontSize=90&theme=dark" />
 
-  ### 👨‍💻 JS / Node.js Back-end Developer
-  
-  [![Website](https://img.shields.io/badge/-rolek.me-black?style=for-the-badge&logo=google-chrome&logoColor=white)](https://rolek.me)
-  [![Discord](https://img.shields.io/badge/-Discord-black?style=for-the-badge&logo=discord&logoColor=white)](https://discord.com)
-</div>
+# ⚡ SYSTEM_ROOT: rolek.me
 
----
-
-### 📂 About Me
-- 🔭 Working on: Scalable Microservices in **Node.js**
-- 🛡️ Security: Always keeping `.env` out of the build.
-- 🌐 Portfolio: [https://rolek.me](https://rolek.me)
-
-### 🛠️ Tech Stack
-<p align="left">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=js,nodejs,express,mongodb,postgres,redis,docker,git,linux,postman" />
-  </a>
-</p>
-
-### 📈 Activity
-<p align="center">
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=NotRolek&show_icons=true&theme=transparent&title_color=00d4ff&text_color=ffffff&icon_color=00d4ff&hide_border=true" />
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NotRolek&layout=compact&theme=transparent&title_color=00d4ff&text_color=ffffff&hide_border=true" />
-</p>
+[![Status](https://img.shields.io/badge/STATUS-ACTIVE-00FF00?style=flat-square&labelColor=24292e)](https://rolek.me)
+[![Stack](https://img.shields.io/badge/STACK-NODE.JS-yellow?style=flat-square&labelColor=24292e)](https://rolek.me)
+[![Security](https://img.shields.io/badge/SECURITY-ENV_SAFE-blue?style=flat-square&labelColor=24292e)](https://rolek.me)
 
 ---
 
-<p align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical" />
-</p>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3>🛠️ Core Services</h3>
+      <ul>
+        <li><b>Runtime:</b> Node.js (V8)</li>
+        <li><b>Language:</b> JavaScript / TypeScript</li>
+        <li><b>Frameworks:</b> Express, Fastify</li>
+        <li><b>Databases:</b> PostgreSQL, MongoDB</li>
+      </ul>
+    </td>
+    <td width="50%" valign="top">
+      <h3>🛰️ Network & Social</h3>
+      <ul>
+        <li><b>Domain:</b> <a href="https://rolek.me">rolek.me</a></li>
+        <li><b>Discord:</b> <code>rolek#0000</code></li>
+        <li><b>Work:</b> Open for projects</li>
+      </ul>
+    </td>
+  </tr>
+</table>
+
+---
+
+### 💻 Infrastructure Snapshot
+```javascript
+{
+  "user": "rolek",
+  "capabilities": ["API_Design", "Backend_Arch", "DB_Optimization"],
+  "philosophy": "Don't leak the .env, or the .env will leak you."
+}
